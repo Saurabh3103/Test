@@ -2,7 +2,7 @@
 public class Calculator {
 public static void main(String[] args) {
 	
-	System.out.println("Addidtion");
+	System.out.println("Addidtion code added");
 
 }
 }
